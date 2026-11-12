@@ -1,5 +1,6 @@
 ---
-guid: README
+guid: 71229a8e-a65e-4ef7-ab2a-3f8a080721ed
+type: index
 title: Shinchan Guide Collection
 seo:
   title: Shinchan Guide Collection
@@ -8,15 +9,3 @@ display:
 feedback:
   comments: true
 ---
-
-# Shinchan Guide Collection
-
-Welcome to the Shinchan guide collection. Explore character profiles, family stories, city life, humor, and beginner-friendly insights.
-
-## Category Highlights
-
-- Character guide
-- Family overview
-- Friends and classmates
-- Everyday neighborhood life
-- Humor and life lessons

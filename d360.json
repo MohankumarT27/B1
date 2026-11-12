@@ -53,16 +53,56 @@
         { "langs": ["de"], "path": "shinchan-guides/README.md" }
       ],
       "children": [
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/shinchan-character-guide.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/shinchan-family.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/shinchan-friends.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/kasukabe-town.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/nohara-family-home.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/kindergarten-days.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/comedy-and-humor.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/themes-and-life-lessons.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/manga-and-anime.md" }] },
-        { "paths": [{ "langs": ["de"], "path": "shinchan-guides/getting-started-with-shinchan.md" }] }
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/shinchan-character-guide.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/shinchan-family.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/shinchan-friends.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/kasukabe-town.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/nohara-family-home.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/kindergarten-days.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/comedy-and-humor.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/themes-and-life-lessons.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/manga-and-anime.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "shinchan-guides/getting-started-with-shinchan.md" }
+          ]
+        }
       ]
     }
   ]
