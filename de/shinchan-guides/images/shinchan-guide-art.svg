@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shinchan guide collection</title>
+  <desc id="desc">A bright, playful illustration for a guide to the Shinchan series.</desc>
+  <rect width="1200" height="420" rx="32" fill="#fff1dc"/>
+  <circle cx="1010" cy="95" r="145" fill="#ffd166" opacity=".8"/>
+  <circle cx="1070" cy="360" r="180" fill="#ef476f" opacity=".16"/>
+  <path d="M0 315 Q220 220 430 315 T850 300 T1200 290 V420 H0Z" fill="#06d6a0" opacity=".3"/>
+  <rect x="78" y="78" width="210" height="210" rx="42" fill="#ef476f"/>
+  <circle cx="145" cy="162" r="14" fill="#fff"/><circle cx="220" cy="162" r="14" fill="#fff"/>
+  <path d="M145 218 Q182 250 222 215" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <text x="340" y="180" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#183153">Shinchan Guide Collection</text>
+  <text x="345" y="242" font-family="Arial, sans-serif" font-size="28" fill="#425466">Characters, family, friends, stories and more</text>
+  <path d="M960 130 l18 40 44 5-33 29 9 44-38-22-39 22 9-44-33-29 44-5z" fill="#118ab2" opacity=".85"/>
+</svg>
