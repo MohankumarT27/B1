@@ -31,9 +31,14 @@
             { "langs": ["de"], "path": "how-to-guides/clone-anleitungen.md" }
           ]
         },
-         {
+        {
           "paths": [
             { "langs": ["de"], "path": "how-to-guides/testing.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "how-to-guides/leo-tamil-movie.md" }
           ]
         }
       ]
