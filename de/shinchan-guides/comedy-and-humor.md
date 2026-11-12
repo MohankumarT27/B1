@@ -11,7 +11,7 @@ feedback:
 
 # Comedy and Humor in Shinchan
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 The series builds comedy from the gap between Shinchan's straightforward way of thinking and the expectations of adults. Wordplay, expressive reactions, and everyday mishaps all contribute to its playful style.
 

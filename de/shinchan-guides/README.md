@@ -10,6 +10,6 @@ feedback:
   comments: true
 ---
 
-![Shinchan guide collection](../../assets/documentation/shinchan-guide-art.svg)
+![Shinchan guide collection](images/shinchan-guide-art.svg)
 
 Explore character profiles, family stories, city life, humor, and beginner-friendly insights.

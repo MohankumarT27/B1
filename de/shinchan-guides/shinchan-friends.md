@@ -11,7 +11,7 @@ feedback:
 
 # Shinchan's Friends
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 Shinchan's friends add different personalities and points of view to his adventures. Their playtime and kindergarten experiences create a lively picture of childhood friendship.
 

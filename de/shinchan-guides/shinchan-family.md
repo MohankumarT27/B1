@@ -11,7 +11,7 @@ feedback:
 
 # The Nohara Family
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 The Nohara family is at the heart of Shinchan's everyday stories. Their affectionate but often chaotic home life gives the series many of its most familiar comic situations.
 

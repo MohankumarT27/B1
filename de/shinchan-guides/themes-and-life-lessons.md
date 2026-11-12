@@ -11,7 +11,7 @@ feedback:
 
 # Themes and Life Lessons
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 Underneath the comedy, Shinchan stories often show family affection, friendship, imagination, and the small challenges of growing up. The lessons are usually presented through events rather than formal explanations.
 

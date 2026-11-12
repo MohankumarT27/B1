@@ -11,7 +11,7 @@ feedback:
 
 # Kasukabe Town
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 Kasukabe is the everyday setting for many of Shinchan's stories. Home, neighborhood streets, shops, parks, and kindergarten provide a familiar backdrop for the characters' comic routines.
 

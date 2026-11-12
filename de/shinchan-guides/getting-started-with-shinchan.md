@@ -11,7 +11,7 @@ feedback:
 
 # Getting Started with Shinchan
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 New viewers can begin with episodes or stories centered on the Nohara family, Shinchan's kindergarten friends, or everyday adventures in Kasukabe. The series is generally episodic, so many stories can be enjoyed on their own.
 

@@ -11,7 +11,7 @@ feedback:
 
 # The Nohara Family Home
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 The Nohara home is one of the series' central settings. Everyday routines—getting ready, eating together, tidying up, and relaxing—often provide the setup for Shinchan's jokes.
 

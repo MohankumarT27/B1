@@ -11,7 +11,7 @@ feedback:
 
 # Shinchan Manga and Anime
 
-![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
+![Colorful guide illustration](images/shinchan-guide-art.svg)
 
 Shinchan began as a manga created by Yoshito Usui and became widely known through its animated adaptation. Both formats follow the Nohara family and their humorous everyday adventures.
 
