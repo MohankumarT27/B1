@@ -25,6 +25,11 @@
           "paths": [
             { "langs": ["de"], "path": "how-to-guides/how-to-guides-1.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["de"], "path": "how-to-guides/clone-anleitungen.md" }
+          ]
         }
       ]
     }
