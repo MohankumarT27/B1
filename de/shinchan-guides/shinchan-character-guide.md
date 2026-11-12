@@ -11,7 +11,7 @@ feedback:
 
 # Shinchan Character Guide
 
-![Colorful guide illustration](images/shinchan-guide-art.svg)
+![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
 
 Shinnosuke Nohara, better known as Shinchan, is the mischievous young star of Yoshito Usui's comedy manga and its animated adaptation. His curiosity and confidence turn ordinary family and neighborhood moments into comic adventures.
 

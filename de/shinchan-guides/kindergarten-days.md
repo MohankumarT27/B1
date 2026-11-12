@@ -11,7 +11,7 @@ feedback:
 
 # Kindergarten Days
 
-![Colorful guide illustration](images/shinchan-guide-art.svg)
+![Colorful guide illustration](../../assets/documentation/shinchan-guide-art.svg)
 
 Kindergarten gives Shinchan a place to learn, play, and spend time with his friends. The classroom and school activities frequently turn into lively group adventures.
 
