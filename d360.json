@@ -97,11 +97,6 @@
           "paths": [
             { "langs": ["de"], "path": "shinchan-guides/manga-and-anime.md" }
           ]
-        },
-        {
-          "paths": [
-            { "langs": ["de"], "path": "shinchan-guides/getting-started-with-shinchan.md" }
-          ]
         }
       ]
     }
